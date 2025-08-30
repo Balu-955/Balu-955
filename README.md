@@ -20,7 +20,7 @@ I'm a passionate **DevOps Engineer** with over **3.5+ years of experience** in b
 
 - **Cloud**: AWS, Azure
 - **OS**: Linux, Windows
-- **CI/CD**: Azure DevOps, GitHub, Jenkins  
+- **CI/CD**: Jenkins, GitHub, Azure DevOps  
 - **SCM**: GitHub  
 - **IaC**: Terraform. Cloudformation  
 - **Containers**: Docker, Kubernetes 
