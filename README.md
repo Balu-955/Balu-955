@@ -13,7 +13,7 @@
 
 ---
 
-I'm a passionate **DevOps ()** with over **3.5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure.
+I'm a passionate **DevOps Engineer** with over **3.5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure.
 ---
 
 ### 🧰 Tech Stack
