@@ -1,57 +1,84 @@
-### Hi there, I'm Balaji Akasapu! 👋
+<div align="center">
+  <img src="D:\DevOps\Balu-955 Git\Balu-955\git_banner.png" alt="GitHub Banner" width="800"/>
+</div>
 
-![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge)
-![Cloud AWS](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-yellow?style=for-the-badge)
+# 👋 Hi, I'm Balaji Akasapu
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Automation Expert**
+### Software Engineer  @ TCS
+🚀 DevOps Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | 
 
-I have **3+ years of experience** in DevOps, specializing in cloud computing, automation, and infrastructure as code. Passionate about building scalable, efficient, and secure pipelines using modern DevOps tools.
 
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **Cloud & Infrastructure:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-#### **Containerization & Orchestration:**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-#### **CI/CD & Security:**
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Veracode](https://img.shields.io/badge/Veracode-%23000000.svg?style=for-the-badge&logo=veracode&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-%23EE0000.svg?style=for-the-badge)
-
-#### **Monitoring & Logging:**
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-%23426E86.svg?style=for-the-badge&logo=elastic-stack&logoColor=white)
-
-#### **Scripting & Automation:**
-![Bash](https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://in.linkedin.com/in/balajiaksapu)
+[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:mahendra48610@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
+I'm a passionate **DevOps ()** with over **3.5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure.
+---
 
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+### 🧰 Tech Stack
+
+- **Cloud**: AWS, Azure
+- **OS**: Linux, Windows
+- **CI/CD**: Azure DevOps, GitHub, Jenkins  
+- **SCM**: GitHub  
+- **IaC**: Terraform. Cloudformation  
+- **Containers**: Docker, Kubernetes 
+- **Security & Scanning**: SonarQube
+- **Arifactory**: Nexus
+- **Scripting**: Bash, Shell, Python  
+- **Monitoring**: Prometheus, Grafana, CloudWatch, Azure Monitor  
 
 ---
 
-### 📫 Connect With Me
+### 🔧 What I Do
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-akasapu/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balu-955)
-
-💡 Always learning and exploring new technologies!
+- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
+- ☁️ Operate services on **AWS** with **Kubernetes** delivering secure and efficient internal deployments  
+- 🚀 Design high-performance **CI/CD pipelines** using **Jenkins** reducing delivery friction  
+- 📃️ Manage codebases and collaboration with **GitHub** ensuring streamlined source control and peer workflows  
+- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
+- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus**.
+- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
+- 📈 Ensure observability and performance with **Prometheus**, **Grafana** and **CloudWatch**, minimizing downtime
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+### 💼 Career Snapshot
+
+- 🏢 **TATA CONSULTANCY SERVICES** – *DevOps Engineer*  
+  Managing AWS infrastructure with Kubernetes. Driving CI/CD and observability strategy across critical internal platforms.
+  Led cloud automation projects using Terraform, Docker, and CI/CD tools (Jenkins) on AWS, resulting in a 40% deployment time reduction.
+  Designed secure cloud infrastructure using AWS & Azure. Built CI/CD pipelines, implemented IaC, and improved uptime and efficiency.
+
+---
+
+
+## ⚙️ Skills Showcase
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Balu-955&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Balu-955&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balu-955&theme=dark&hide_border=false&layout=compact" />
+</div>
+
+
+Thanks for visiting!
