@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Balaji Akasapu
 
-### Software Engineer  @ TCS
+### Software Engineer  @ TATA CONSULTANCY SERVICES
 🚀 DevOps Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | 
 
 
